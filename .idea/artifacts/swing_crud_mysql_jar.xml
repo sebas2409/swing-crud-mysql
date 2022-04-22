@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="swing-crud-mysql:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/swing_crud_mysql_jar</output-path>
+    <root id="archive" name="swing-crud-mysql.jar">
+      <element id="module-output" name="swing-crud-mysql" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar/rs2xml/rs2xml.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
